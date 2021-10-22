@@ -5,7 +5,13 @@ Upload a photo to detect if subject is wearing a mask or not!
 
 Check the above site to see the web app.
 
-- [model](./classificationproject.ipynb) trained in colab.
+
+
+# ScreenShots
+<pre>
+<img src="./static/dwayne.png" width="500" height="300"></img><img src="./static/mask.png" width="500" height="300"></img>
+<pre>
+
 # Intruction
 Upload a high quality photo of a person with or without mask and the model will predict it.
 
@@ -24,6 +30,8 @@ clone this repository to your computer
   after installing required packages,run the flask model
   
   `python -m flask run`
+  
+- [model](./classificationproject.ipynb) trained in colab.
 
 if you have any issue with the webclient do try it out by cloning and folowing the above steps for installation.
 
