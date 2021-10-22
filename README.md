@@ -10,7 +10,8 @@ Check the above site to see the web app.
 # ScreenShots
 <pre>
 <img src="./static/dwayne.png" width="500" height="300"></img><img src="./static/mask.png" width="500" height="300"></img>
-<pre>
+
+</pre>
 
 # Intruction
 Upload a high quality photo of a person with or without mask and the model will predict it.
